@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172807203061",
+    "project_id": "pin-and-go-5042c",
+    "storage_bucket": "pin-and-go-5042c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172807203061:android:747063ce4a4040a7ecfdbc",
+        "android_client_info": {
+          "package_name": "com.example.pin_and_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172807203061-ds1sab83vnmb4vli46ubl7i8gbq3an6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-D7SaDYYf_xuoGFQ6CcQjmgSHG3C0kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172807203061-ds1sab83vnmb4vli46ubl7i8gbq3an6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
